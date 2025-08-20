@@ -38,5 +38,5 @@ _(More Task are coming)_
 ---
 
 ## 🌍 Connect with Me
-- **LinkedIn**: linkedin.com/in/muhammad-qasim-891833250/
+- **LinkedIn**: https://www.linkedin.com/in/muhammad-qasim-891833250/
 - **Email**: mqasimabdullah12@gmail.com
