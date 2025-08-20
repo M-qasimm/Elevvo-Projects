@@ -1,9 +1,9 @@
-# Elevvo Pathway – Machine Learning Internship
+ Elevvo Pathway – Machine Learning Internship
 
 This repository contains all the tasks I completed during my **Elevvo Pathway ML Internship**.  
 Each project highlights core Machine Learning techniques applied on real-world datasets.
 
----
+
 
 ## 📌 Tasks Completed
 
@@ -13,7 +13,18 @@ Each project highlights core Machine Learning techniques applied on real-world d
 - Tools: Python, Pandas, Matplotlib, Scikit-learn  
 - Output: Predicted student performance based on study hours  
 
+
+
+### ✅ Task 2: Customer Segmentation
+- Dataset: Mall Customers (Kaggle)  
+- Concepts: K-Means Clustering, Elbow Method, Visualization  
+- Tools: Python, Pandas, Matplotlib, Scikit-learn  
+- Output: Segmented customers into meaningful groups  
+
 ---
+
+_(More Task are coming)_
+
 
 
 ## 🛠️ Tools & Libraries
@@ -27,5 +38,5 @@ Each project highlights core Machine Learning techniques applied on real-world d
 ---
 
 ## 🌍 Connect with Me
-- **LinkedIn**: Muhammad Qasim :(https://www.linkedin.com/in/muhammad-qasim-891833250/)
+- **LinkedIn**: linkedin.com/in/muhammad-qasim-891833250/
 - **Email**: mqasimabdullah12@gmail.com
