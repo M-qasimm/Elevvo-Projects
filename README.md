@@ -27,5 +27,5 @@ Each project highlights core Machine Learning techniques applied on real-world d
 ---
 
 ## 🌍 Connect with Me
-- **LinkedIn**: Muhammad Qasim :(#https://www.linkedin.com/in/muhammad-qasim-891833250/)
+- **LinkedIn**: Muhammad Qasim :(https://www.linkedin.com/in/muhammad-qasim-891833250/)
 - **Email**: mqasimabdullah12@gmail.com
