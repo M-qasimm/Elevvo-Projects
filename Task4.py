@@ -8,7 +8,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 
 # 2. Load dataset from local file
-# Make sure your file path is correct (adjust if needed)
+
 df = pd.read_csv("SMSSpamCollection", sep='\t', header=None, names=['label', 'message'])
 
 print("Sample data:")
